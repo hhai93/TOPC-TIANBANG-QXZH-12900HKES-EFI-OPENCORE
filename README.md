@@ -4,5 +4,5 @@
 - MOBO: TOPC/TIANBANG QXZH with Intel 12900HK-ES MODT  
 - GPU: Sapphire Pulse RX 6600  
 - RAM: Corsair 2x16GB @2133Mhz  
-- WIFI: AX201 (Only Bluetooth work with Sequoia yet)    
+- WIFI: AX201 (Wifi requires Opencore Legacy Patcher to work)    
 Note: remember to replace serial, mlb, uuid & rom with your own generated.
