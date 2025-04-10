@@ -7,9 +7,12 @@ Prebuilt Opencore EFI for TOPC/TIANBANG QXZH MODT Mainboard
 
 ---
 
-## OPENCORE 1.03 - macOS Sequoia 15.1.1
+## System Details
 - Mainboard: TOPC/TIANBANG QXZH with Intel 12900HK-ES MODT  
 - GPU: Sapphire Pulse RX 6600  
 - RAM: Corsair 2x16GB @2133Mhz  
-- WIFI: Intel AX201 (Wifi requires Opencore Legacy Patcher to work)  
-Note: remember to replace serial, mlb, uuid & rom with your own generated.
+- WIFI: Intel AX201 (Wifi requires Opencore Legacy Patcher to work)
+- Opencore 1.03  
+- MacOS Sequoia 15.1.1
+
+**Note: Remember to replace serial, mlb, uuid & rom with your own generated.**
