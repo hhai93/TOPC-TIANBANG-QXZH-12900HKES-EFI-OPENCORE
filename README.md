@@ -25,9 +25,6 @@ A prebuilt OpenCore EFI configuration tailored for the **TOPC/TIANBANG QXZH** mo
 
 ## Features
 - Fully functional OpenCore EFI for macOS installation and booting.
-- Optimized for the TOPC/TIANBANG QXZH motherboard with Intel 12900HK-ES.
-- Supports macOS Sequoia 15.1.1 out of the box.
-- Wi-Fi compatibility via Intel AX201 with OpenCore Legacy Patcher.
 
 ---
 
@@ -42,8 +39,6 @@ A prebuilt OpenCore EFI configuration tailored for the **TOPC/TIANBANG QXZH** mo
 4. Boot into macOS and enjoy!
 
 > **Tip**: Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own system-specific identifiers.
-
----
 
 ## Prerequisites
 - A compatible USB drive for creating the macOS installer.
